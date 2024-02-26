@@ -1,0 +1,10 @@
+﻿GRANT CONNECT TO [test];
+
+
+GO
+GRANT CONNECT TO [test2];
+
+
+GO
+GRANT CONNECT TO [test3];
+
